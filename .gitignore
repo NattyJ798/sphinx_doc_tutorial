@@ -1,0 +1,3 @@
+lumache/Include lumache/Lib lumache/Scripts lumache/pyvenv.cfg
+lumache/*.*
+lumache/
